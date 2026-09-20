@@ -23,8 +23,5 @@ games
 
 Roblox · CS2 · Fortnite · Rust
 
-stats
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=larpenxide&theme=tokyonight&hide_border=true&background=00000000&card_width=470" alt="streak" /> </p> <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larpenxide&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=10" alt="top langs" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=larpenxide&theme=react-dark&hide_border=true&bg_color=00000000&area=true&custom_title=contribution%20graph" alt="activity" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=larpenxide&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="trophies" /> </p>
-links
 <p align="center"> <a href="https://github.com/larpenxide"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="#"><img src="https://img.shields.io/badge/Discord-1a1b27?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" /></a> </p>
 <p align="center"> <code>currently: gooning</code> </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=90&section=footer" alt="footer" />
